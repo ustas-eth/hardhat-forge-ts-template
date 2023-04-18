@@ -1,5 +1,12 @@
 # Sample Hardhat + TS + Forge Project
 
+Installation:
+```
+1. Make a Github repo from this template
+2. git clone --recurse-submodules REPO_URL
+3. Rename project in package.json and delete this README.md
+```
+
 Try running some of the following tasks:
 
 ```shell
