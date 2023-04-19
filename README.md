@@ -7,6 +7,11 @@ Installation:
 3. Rename project in package.json and delete this README.md
 ```
 
+To init submodules run:
+```
+git submodule update --init --recursive
+```
+
 Try running some of the following tasks:
 
 ```shell
